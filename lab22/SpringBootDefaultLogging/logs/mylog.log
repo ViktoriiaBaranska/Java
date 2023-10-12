@@ -1,0 +1,6 @@
+2023-09-18T13:42:34.260+03:00  WARN 5956 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-09-18T13:42:34.261+03:00 ERROR 5956 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
+2023-09-18T13:49:38.818+03:00  WARN 2640 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-09-18T13:49:38.819+03:00 ERROR 2640 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
+2023-09-18T13:49:39.506+03:00  WARN 2640 --- [http-nio-8080-exec-2] o.o.sblogging.controller.MainController  : This is WARN
+2023-09-18T13:49:39.508+03:00 ERROR 2640 --- [http-nio-8080-exec-2] o.o.sblogging.controller.MainController  : This is ERROR
